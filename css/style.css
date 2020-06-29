@@ -1,0 +1,44 @@
+#header-section{
+	background:url(../img/mountains.jpg);
+	min-height:600px;
+}
+.navbar{
+	background:#f8f9faeb;
+	box-shadow: 2px 2px 5px #3292a6;
+}
+.overlay{
+	    background: rgba(50, 146, 156, 0.7);
+		width:100%;
+		height:100%;
+		min-height:600px;	
+}
+.navbar .nav-item {
+    font-size: 1.4rem;
+    padding-right: 20px;
+}
+.show-section{
+	margin-top:5rem;
+}
+.form-control{
+	border-radius:none;
+}
+.form-control-lg{
+	border-radius:none;
+}
+#meet-the-authors .card img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-top: -60px;
+}
+#meet-the-authors .card i{
+	font-size:30px;
+	color:#3292a6;
+}
+#meet-the-authors .card:hover i{
+	color:#fff;
+}
+#meet-the-authors .card:hover{
+	background: #3292a6;
+    color: #fff;
+}
